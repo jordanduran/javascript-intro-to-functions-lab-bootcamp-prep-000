@@ -25,7 +25,3 @@ function sayHiToGrandma(string) {
     return 'YES INDEED!';
   }
 }
-
-function sayHiToGrandma(string) {
-  if (string === string.
-}
